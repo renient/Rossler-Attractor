@@ -7,7 +7,7 @@
 
 A real-time 3D visualization of the **Rössler attractor**, a classic chaotic dynamical system. The program uses native Windows and OpenGL to render one million iterated points with a rotating camera, phase portrait sidebar, and the governing equations.
 
-![Rossler Attractor](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rossler_attractor.png/300px-Rossler_attractor.png)
+
 
 ---
 
