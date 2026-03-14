@@ -1,7 +1,7 @@
 # Rössler Attractor
 
 
-## Made By Re
+## Made By CREA
 
 
 
