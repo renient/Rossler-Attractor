@@ -1,7 +1,7 @@
 # Rössler Attractor
 
 
-## Made By CREA
+## Made By ASHER
 
 
 
